@@ -1,0 +1,23 @@
+"
+" Mappings
+
+qmark b https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_BESTBUY#signon
+qmark g https://gmail.com
+
+
+"
+" Options
+
+set defsearch=google
+set suggestengines=google
+
+set gui=nonavigation
+
+set complete=sl
+
+" don't focus the new opened tab automatically
+set activate=
+
+set tabnumbers=true
+
+set focuscontent
